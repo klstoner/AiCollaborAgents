@@ -87,7 +87,8 @@ Each persona template includes:
     Key Skills and Strengths
     Areas for Growth and Development
 
-These templates are designed to be flexible and customizable to fit the needs of any team.
+These templates are designed to be flexible and customizable to fit the needs of any team. They can be updated and expanded to include a variety of other qualities you want your personas to embody.
+
 6. Collaborating with Your Persona Team
 
 The success of a persona team lies in the collaboration among its members. Here are key aspects of effective collaboration:
