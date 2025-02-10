@@ -53,6 +53,7 @@ Tools and templates for recognizing and addressing biases that might arise in gr
 Adversarial Roleplay Guidelines
 
 Resources for running roleplay simulations, where personas may challenge one another's assumptions to identify weaknesses in ideas or proposals.
+
 4. The Process for Building a Persona Team
 
 Creating a persona team is a structured process that involves several stages. See the document "10 Questions to Answer for your AI Dream Team" to see the questions that can define your persona. Others are possible.
@@ -74,6 +75,10 @@ Creating a persona team is a structured process that involves several stages. Se
 
     Ongoing Iteration:
         Periodically review the personas and their contributions to assess whether new ones need to be added or current ones need adjustments.
+
+    See these videos for a demo of how to define the personas and interactions and then create a persona team from the resulting info:
+         https://youtu.be/7FHp1tNMVHk
+         https://youtu.be/KM5dFr23nRU
 
 5. Individual Persona Templates
 
